@@ -8,10 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by Luis Garro on 2/11/14.
- * Location: Costa Rica ext:5582
- */
+
 public class LargestProductSeries {
 
 
